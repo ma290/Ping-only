@@ -2,12 +2,12 @@
 
 # Define your API endpoints
 API_ENDPOINTS=(
-    "https://transcribe2api-gbnm.onrender.com/health"
-    "https://transcribe2api-3352.onrender.com/health"
-    "https://transcribe2api-6jv9.onrender.com/health"
-    "https://transcribe2api.onrender.com/health"
-    "https://transcribe2api-7vu1.onrender.com/health"
-    "https://transcribe2api-clg9.onrender.com/health"
+    "https://transcribe2api-gbnm.onrender.com/"
+    "https://transcribe2api-3352.onrender.com/"
+    "https://transcribe2api-6jv9.onrender.com/"
+    "https://transcribe2api.onrender.com/"
+    "https://transcribe2api-7vu1.onrender.com/"
+    "https://transcribe2api-clg9.onrender.com/"
     "https://difficult-ashlie-ashutosh0879-9aca6afa.koyeb.app/"
 )
 
