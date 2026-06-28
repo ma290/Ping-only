@@ -8,6 +8,7 @@ API_ENDPOINTS=(
     "https://transcribe2api.onrender.com/transcribe"
     "https://transcribe2api-7vu1.onrender.com/transcribe"
     "https://transcribe2api-clg9.onrender.com/transcribe"
+    "difficult-ashlie-ashutosh0879-9aca6afa.koyeb.app/"
 )
 
 # Colors for output
