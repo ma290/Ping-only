@@ -2,8 +2,8 @@
 
 # Define your API endpoints
 API_ENDPOINTS=(
-    "intelligent-lydia-ashutosh0879-d6443fa6.koyeb.app/"
-    "giant-elinor-namezakikr-6c7a4f8a.koyeb.app/"
+    "https://intelligent-lydia-ashutosh0879-d6443fa6.koyeb.app/"
+    "https://giant-elinor-namezakikr-6c7a4f8a.koyeb.app/"
 )
 
 # Colors for output
